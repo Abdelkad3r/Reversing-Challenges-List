@@ -5,5 +5,5 @@ flag : `SSCTF{oty3eaP$g986iwhw32j%OJ)g0o7J.CG:}`
 ## 一言Write up
 
 ## Write up
-
+by coldzer0 (HackXore): https://www.youtube.com/watch?v=8-yyvyh3PVM
 
